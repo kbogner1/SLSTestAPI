@@ -1,0 +1,14 @@
+{
+    "version": "3.0.0",
+    "build": "61",
+    "box_id": "bb220977-2bf4-4dd9-86b7-0c709844c0f9",
+    "archive_mode": false,
+    "live_session": "62df6be4-997c-4f83-925e-49a88b809b2d",
+    "sport_type": "Diving",
+    "supported_sports": [
+        "Diving",
+        "Gymnastics",
+        "Other"
+    ],
+    "directories": []
+}
